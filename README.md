@@ -14,17 +14,18 @@
    - Turn **off** "Scan apps with Play Protect"
    - Open Kharcha.apk again and install
    - Go back and turn "Scan apps with Play Protect" **on** again
-3. **Unlock the SMS permission** (Android 13 and newer block it for downloaded apps):
+3. **If you see "App scan recommended" (Google Play Protect):** tap **Scan app**. It only sends the Kharcha app file to Google to check. None of your data is sent. The install continues after a few seconds.
+4. **Unlock the SMS permission** (Android 13 and newer block it for downloaded apps):
    **Settings → Apps → Kharcha → ⋮ (top right) → Allow restricted settings**
-4. **Open Kharcha** and follow the setup. When asked, allow **SMS**, **notifications** and **display over other apps**.
-5. **Stop your phone from killing it:** **Settings → Apps → Kharcha → Battery → Unrestricted**.
+5. **Open Kharcha** and follow the setup. When asked, allow **SMS**, **notifications** and **display over other apps**.
+6. **Stop your phone from killing it:** **Settings → Apps → Kharcha → Battery → Unrestricted**.
    On Xiaomi, Redmi, Poco, Oppo, Vivo, Realme or OnePlus, also turn on **Autostart** for Kharcha.
 
 Done. At the end of setup Kharcha offers to bring in your past spends from SMS already on your phone.
 
 ## Updates
 
-Kharcha tells you when there's a new version (**"New Kharcha version → Update"** on the Home screen). Tap **Update**. The first time, Android asks you to allow Kharcha to install updates; turn that on once. Your data stays exactly as it is.
+Kharcha tells you when there's a new version (**"New Kharcha version → Update"** on the Home screen). Tap **Update**. The first time, Android asks you to allow Kharcha to install updates; turn that on once. If Play Protect asks to scan it, tap **Scan app**. Your data stays exactly as it is.
 
 ## Privacy
 
